@@ -10,7 +10,7 @@ Hem reorganitzat la documentació per àrees perquè sigui fàcil navegar-hi amb
 - [R language](./r/)
 - [Python language](./python/)
 - [Tutorials d'òmiques](./tutorials-omiques/)
-- [Descàrregues de scripts (classificats per R i Python)](../assets/downloads/)
+- [Catàleg de scripts (amb descripció i descàrrega)](../assets/downloads/)
 - [Portal HPC UVic](https://rogercasalsfr.github.io/hpcuvic/)
 
 ## Com està organitzat
