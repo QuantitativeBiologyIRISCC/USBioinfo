@@ -10,7 +10,7 @@ Aquest apartat recull eines, pipelines i recursos tècnics del Servei de Bioinfo
 ## Enllaços destacats
 
 - [Portal HPC UVic](https://rogercasalsfr.github.io/hpcuvic/)
-- [Descàrregues de scripts](../assets/downloads/)
+- [Catàleg de scripts (R, Python i altres formats)](../assets/downloads/)
 
 ## Fitxa recomanada per recurs
 
