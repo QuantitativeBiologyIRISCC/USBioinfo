@@ -17,7 +17,7 @@ Web del **Servei de Bioinformàtica de l'IRIS-CC**.
 
 ## Enllaços destacats
 
-- HPC UVic: <https://rogercasalsfr.github.io/hpcuvic/>
+- HPC UVic: <https://quantitativebiologyiriscc.github.io/hpcuvic/>
 
 ## Execució local (opcional)
 
